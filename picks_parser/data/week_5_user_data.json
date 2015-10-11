@@ -1,0 +1,6057 @@
+[
+    {
+        "name": "Double Down",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SF",
+                "isCorrect": null,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 7
+            }
+        ]
+    },
+    {
+        "name": "Scooter23",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 6
+            }
+        ]
+    },
+    {
+        "name": "Albert",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Cuzin",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 12
+            }
+        ]
+    },
+    {
+        "name": "Caddy Sack",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "Chi",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Cle",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 13
+            }
+        ]
+    },
+    {
+        "name": "Storm Hawk",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "SCHAUBBY",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Pit",
+                "isCorrect": null,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "STL",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "Bundy",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 1
+            }
+        ]
+    },
+    {
+        "name": "Snowman",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SF",
+                "isCorrect": null,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 6
+            }
+        ]
+    },
+    {
+        "name": "Mrs. Finch",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "&nbsp",
+                "isCorrect": false,
+                "points": 0
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Steaksauce22",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Pit",
+                "isCorrect": null,
+                "points": 1
+            }
+        ]
+    },
+    {
+        "name": "Bica",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Oak",
+                "isCorrect": null,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Pit",
+                "isCorrect": null,
+                "points": 1
+            }
+        ]
+    },
+    {
+        "name": "Honeybadger",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 3
+            }
+        ]
+    },
+    {
+        "name": "Commish",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "16 Every Monday!!!",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Pit",
+                "isCorrect": null,
+                "points": 14
+            }
+        ]
+    },
+    {
+        "name": "D-Unit",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 7
+            }
+        ]
+    },
+    {
+        "name": "MikeE54",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 4
+            }
+        ]
+    },
+    {
+        "name": "unrelated",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Stenerson",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Glutton for Punishment",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Pit",
+                "isCorrect": null,
+                "points": 3
+            }
+        ]
+    },
+    {
+        "name": "AtlJas",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 2
+            }
+        ]
+    },
+    {
+        "name": "JJS",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 6
+            }
+        ]
+    },
+    {
+        "name": "Fantasycav",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 14
+            }
+        ]
+    },
+    {
+        "name": "TMART",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "Train Wreck",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 3
+            }
+        ]
+    },
+    {
+        "name": "Slim with the Tilted Brim",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Pit",
+                "isCorrect": null,
+                "points": 5
+            }
+        ]
+    },
+    {
+        "name": "bearswin",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 9
+            }
+        ]
+    },
+    {
+        "name": "JNEL",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 12
+            }
+        ]
+    },
+    {
+        "name": "Cisco's Kids",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 11
+            }
+        ]
+    },
+    {
+        "name": "Seminole 76",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 6
+            }
+        ]
+    },
+    {
+        "name": "The Dawg Pound",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Ten",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "TB",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Pit",
+                "isCorrect": null,
+                "points": 3
+            }
+        ]
+    },
+    {
+        "name": "DaBoltz",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Cin",
+                "isCorrect": true,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Det",
+                "isCorrect": null,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 7
+            }
+        ]
+    },
+    {
+        "name": "Nicks Picks",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Ind",
+                "isCorrect": true,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 7
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "Phi",
+                "isCorrect": true,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 14
+            }
+        ]
+    },
+    {
+        "name": "Rainman11",
+        "picks": [
+            {
+                "game": {
+                    "favored": "Hou",
+                    "underdog": "Ind",
+                    "spread": "Off (0)",
+                    "isOver": true,
+                    "winner": "Ind"
+                },
+                "pick": "Hou",
+                "isCorrect": false,
+                "points": 5
+            },
+            {
+                "game": {
+                    "favored": "Atl",
+                    "underdog": "Was",
+                    "spread": "7.5",
+                    "isOver": true,
+                    "winner": "Atl"
+                },
+                "pick": "Atl",
+                "isCorrect": true,
+                "points": 10
+            },
+            {
+                "game": {
+                    "favored": "Cin",
+                    "underdog": "Sea",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Cin"
+                },
+                "pick": "Sea",
+                "isCorrect": false,
+                "points": 6
+            },
+            {
+                "game": {
+                    "favored": "GB",
+                    "underdog": "StL",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "GB"
+                },
+                "pick": "GB",
+                "isCorrect": true,
+                "points": 9
+            },
+            {
+                "game": {
+                    "favored": "Buf",
+                    "underdog": "Ten",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "Buf"
+                },
+                "pick": "Buf",
+                "isCorrect": true,
+                "points": 4
+            },
+            {
+                "game": {
+                    "favored": "KC",
+                    "underdog": "Chi",
+                    "spread": "9.0",
+                    "isOver": true,
+                    "winner": "Chi"
+                },
+                "pick": "KC",
+                "isCorrect": false,
+                "points": 13
+            },
+            {
+                "game": {
+                    "favored": "Phi",
+                    "underdog": "NO",
+                    "spread": "4.5",
+                    "isOver": true,
+                    "winner": "Phi"
+                },
+                "pick": "NO",
+                "isCorrect": false,
+                "points": 3
+            },
+            {
+                "game": {
+                    "favored": "TB",
+                    "underdog": "Jax",
+                    "spread": "2.5",
+                    "isOver": true,
+                    "winner": "TB"
+                },
+                "pick": "Jax",
+                "isCorrect": false,
+                "points": 1
+            },
+            {
+                "game": {
+                    "favored": "Bal",
+                    "underdog": "Cle",
+                    "spread": "6.5",
+                    "isOver": true,
+                    "winner": "Cle"
+                },
+                "pick": "Bal",
+                "isCorrect": false,
+                "points": 11
+            },
+            {
+                "game": {
+                    "favored": "Ari",
+                    "underdog": "Det",
+                    "spread": "2.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Ari",
+                "isCorrect": null,
+                "points": 2
+            },
+            {
+                "game": {
+                    "favored": "NE",
+                    "underdog": "Dal",
+                    "spread": "8.5",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NE",
+                "isCorrect": null,
+                "points": 14
+            },
+            {
+                "game": {
+                    "favored": "Den",
+                    "underdog": "Oak",
+                    "spread": "5.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "Den",
+                "isCorrect": null,
+                "points": 8
+            },
+            {
+                "game": {
+                    "favored": "NYG",
+                    "underdog": "SF",
+                    "spread": "7.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "NYG",
+                "isCorrect": null,
+                "points": 12
+            },
+            {
+                "game": {
+                    "favored": "SD",
+                    "underdog": "Pit",
+                    "spread": "3.0",
+                    "isOver": false,
+                    "winner": null
+                },
+                "pick": "SD",
+                "isCorrect": null,
+                "points": 7
+            }
+        ]
+    }
+]

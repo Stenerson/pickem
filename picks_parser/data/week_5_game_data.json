@@ -1,0 +1,100 @@
+[
+    {
+        "favored": "Hou",
+        "underdog": "Ind",
+        "spread": "Off (0)",
+        "isOver": true,
+        "winner": "Ind"
+    },
+    {
+        "favored": "Atl",
+        "underdog": "Was",
+        "spread": "7.5",
+        "isOver": true,
+        "winner": "Atl"
+    },
+    {
+        "favored": "Cin",
+        "underdog": "Sea",
+        "spread": "2.5",
+        "isOver": true,
+        "winner": "Cin"
+    },
+    {
+        "favored": "GB",
+        "underdog": "StL",
+        "spread": "9.0",
+        "isOver": true,
+        "winner": "GB"
+    },
+    {
+        "favored": "Buf",
+        "underdog": "Ten",
+        "spread": "2.5",
+        "isOver": true,
+        "winner": "Buf"
+    },
+    {
+        "favored": "KC",
+        "underdog": "Chi",
+        "spread": "9.0",
+        "isOver": true,
+        "winner": "Chi"
+    },
+    {
+        "favored": "Phi",
+        "underdog": "NO",
+        "spread": "4.5",
+        "isOver": true,
+        "winner": "Phi"
+    },
+    {
+        "favored": "TB",
+        "underdog": "Jax",
+        "spread": "2.5",
+        "isOver": true,
+        "winner": "TB"
+    },
+    {
+        "favored": "Bal",
+        "underdog": "Cle",
+        "spread": "6.5",
+        "isOver": true,
+        "winner": "Cle"
+    },
+    {
+        "favored": "Ari",
+        "underdog": "Det",
+        "spread": "2.5",
+        "isOver": false,
+        "winner": null
+    },
+    {
+        "favored": "NE",
+        "underdog": "Dal",
+        "spread": "8.5",
+        "isOver": false,
+        "winner": null
+    },
+    {
+        "favored": "Den",
+        "underdog": "Oak",
+        "spread": "5.0",
+        "isOver": false,
+        "winner": null
+    },
+    {
+        "favored": "NYG",
+        "underdog": "SF",
+        "spread": "7.0",
+        "isOver": false,
+        "winner": null
+    },
+    {
+        "favored": "SD",
+        "underdog": "Pit",
+        "spread": "3.0",
+        "isOver": false,
+        "winner": null
+    }
+]
