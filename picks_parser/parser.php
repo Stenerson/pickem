@@ -4,12 +4,22 @@ require_once(ROOTPATH.'simple_html_dom.php');
 
 $week = 'week_5';
 
-$file_path = ROOTPATH."data/$week.raw";
-$html = file_get_html($file_path);
+$file_path = ROOTPATH."data/$week.html";
+$html_doc = file_get_html($file_path);
 
-$game_data = array_slice($html->find('tr.data-row'),0,3);
-$user_data =  array_slice($html->find('tr.data-row'),4);
+if (!is_a($html_doc, 'simple_html_dom')) {
+  exit("ERROR: Could not parse HTML in file $file_path.\n");
+}
 
+$table = $html_doc->find('div[id=ysf-group-picks] table tbody',0);
+
+if (!is_a($table, 'simple_html_dom_node')) {
+  exit("ERROR: Could not find table in HTML document.\n");
+}
+
+
+$game_data = array_slice($table->find('tr.data-row'),0,3);
+$user_data =  array_slice($table->find('tr.data-row'),3);
 
 /******************
   Process Game Data
@@ -19,7 +29,8 @@ $spread = $game_data[1]->find('td');
 $underdog_teams = $game_data[2]->find('td');
 
 class Game {
-  var $favored;
+  var $id;
+  var $favorite;
   var $underdog;
   var $spread;
   var $isOver = false;
@@ -31,7 +42,8 @@ $num_games = count($favored_teams)-2; // End at count -1 to avoid summary column
 // Start at 1 to avoid first column's data
 for ($i=1; $i <= $num_games; $i++) {
   $game = new Game;
-  $game->favored = $favored_teams[$i]->plaintext;
+  $game->id = $i;
+  $game->favorite = $favored_teams[$i]->plaintext;
   $game->spread = $spread[$i]->plaintext;
   $game->underdog = $underdog_teams[$i]->plaintext;
 
@@ -39,7 +51,7 @@ for ($i=1; $i <= $num_games; $i++) {
   if (isset($favored_teams[$i]->attr) && $favored_teams[$i]->attr['class'] == 'yspNflPickWin'
       OR isset($underdog_teams[$i]->attr) && $underdog_teams[$i]->attr['class'] == 'yspNflPickWin') {
     $game->isOver = true;
-    $game->winner = (isset($favored_teams[$i]->attr) && $favored_teams[$i]->attr['class'] == 'yspNflPickWin') ? $game->favored : $game->underdog;
+    $game->winner = (isset($favored_teams[$i]->attr) && $favored_teams[$i]->attr['class'] == 'yspNflPickWin') ? $game->favorite : $game->underdog;
   }
 
   // Add to the array
@@ -56,20 +68,12 @@ for ($i=1; $i <= $num_games; $i++) {
 class User {
   var $name;
   var $picks;
-  // var $points;
+  var $earned_points;
 
   function __construct() {
     $this->picks = array();
   }
 
-  function points() {
-    return array_reduce($this->picks, function($c, $i) {
-      if ($i->isCorrect === true) {
-        $c += $i->points;
-      }
-      return $c;
-    });
-  }
 }
 
 class UserPick {
@@ -93,7 +97,8 @@ foreach ($user_data as $user_row) {
     }
 
     // last column
-    if ($i > $num_games) {
+    if ($i === $num_games+1) {
+      $user->earned_points = intval($plaintext);
       continue;
     }
 

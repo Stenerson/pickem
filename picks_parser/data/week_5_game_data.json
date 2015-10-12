@@ -1,97 +1,111 @@
 [
     {
-        "favored": "Hou",
+        "id": 1,
+        "favorite": "Hou",
         "underdog": "Ind",
         "spread": "Off (0)",
         "isOver": true,
         "winner": "Ind"
     },
     {
-        "favored": "Atl",
+        "id": 2,
+        "favorite": "Atl",
         "underdog": "Was",
         "spread": "7.5",
         "isOver": true,
         "winner": "Atl"
     },
     {
-        "favored": "Cin",
+        "id": 3,
+        "favorite": "Cin",
         "underdog": "Sea",
         "spread": "2.5",
         "isOver": true,
         "winner": "Cin"
     },
     {
-        "favored": "GB",
+        "id": 4,
+        "favorite": "GB",
         "underdog": "StL",
         "spread": "9.0",
         "isOver": true,
         "winner": "GB"
     },
     {
-        "favored": "Buf",
+        "id": 5,
+        "favorite": "Buf",
         "underdog": "Ten",
         "spread": "2.5",
         "isOver": true,
         "winner": "Buf"
     },
     {
-        "favored": "KC",
+        "id": 6,
+        "favorite": "KC",
         "underdog": "Chi",
         "spread": "9.0",
         "isOver": true,
         "winner": "Chi"
     },
     {
-        "favored": "Phi",
+        "id": 7,
+        "favorite": "Phi",
         "underdog": "NO",
         "spread": "4.5",
         "isOver": true,
         "winner": "Phi"
     },
     {
-        "favored": "TB",
+        "id": 8,
+        "favorite": "TB",
         "underdog": "Jax",
         "spread": "2.5",
         "isOver": true,
         "winner": "TB"
     },
     {
-        "favored": "Bal",
+        "id": 9,
+        "favorite": "Bal",
         "underdog": "Cle",
         "spread": "6.5",
         "isOver": true,
         "winner": "Cle"
     },
     {
-        "favored": "Ari",
+        "id": 10,
+        "favorite": "Ari",
         "underdog": "Det",
         "spread": "2.5",
-        "isOver": false,
-        "winner": null
+        "isOver": true,
+        "winner": "Ari"
     },
     {
-        "favored": "NE",
+        "id": 11,
+        "favorite": "NE",
         "underdog": "Dal",
         "spread": "8.5",
-        "isOver": false,
-        "winner": null
+        "isOver": true,
+        "winner": "NE"
     },
     {
-        "favored": "Den",
+        "id": 12,
+        "favorite": "Den",
         "underdog": "Oak",
         "spread": "5.0",
-        "isOver": false,
-        "winner": null
+        "isOver": true,
+        "winner": "Den"
     },
     {
-        "favored": "NYG",
+        "id": 13,
+        "favorite": "NYG",
         "underdog": "SF",
         "spread": "7.0",
-        "isOver": false,
-        "winner": null
+        "isOver": true,
+        "winner": "NYG"
     },
     {
-        "favored": "SD",
+        "id": 14,
+        "favorite": "SD",
         "underdog": "Pit",
         "spread": "3.0",
         "isOver": false,
