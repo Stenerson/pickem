@@ -1,12 +1,12 @@
 var React = require('react');
-var PicksTableGames = require('./PicksTableGames.jsx');
+var PicksTableBody = require('./PicksTableBody.jsx');
 
 var PicksTable = React.createClass({
   render: function() {
     return (
       <div className="picks-table">
         <table className="table">
-          <PicksTableGames />
+          <PicksTableBody />
         </table>
       </div>
     );
