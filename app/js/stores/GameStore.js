@@ -32,14 +32,11 @@ var GameStore = assign({}, EventEmitter.prototype, {
   },
 
   userSelectGameWinner: function(game, team) {
-    var _game = _games[game.id];
-    if (game.isOver && !_game.originalWinner) {
-      _game.originalWinner = _game.winner;
+    if (game.isOver && !game.originalWinner) {
+      game.originalWinner = game.winner;
     };
-    _game.winner = team;
-    _game.userSelected = !(_game.winner === _game.originalWinner);
-
-    _games[_game.id] = _game;
+    game.winner = team;
+    game.userSelected = !(game.winner === game.originalWinner);
   },
 
   getAll: function() {
