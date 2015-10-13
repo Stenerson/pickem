@@ -5,7 +5,8 @@ module.exports = {
   ActionTypes: keyMirror({
     RECEIVE_GAMES: null,
     RECEIVE_PLAYERS: null,
-    USER_SELECT_GAME_WINNER: null
+    USER_SELECT_GAME_WINNER: null,
+    HIGHLIGHT_PLAYER: null
   })
 
 };

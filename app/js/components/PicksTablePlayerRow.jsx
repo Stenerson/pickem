@@ -1,4 +1,6 @@
 var React = require('react');
+var PlayerActionCreator = require('../actions/PlayerActionCreator');
+
 
 var PicksTablePlayerRow = React.createClass({
 
@@ -28,12 +30,15 @@ var PicksTablePlayerRow = React.createClass({
   //   return className;
   // },
 
+  _rowClick: function(e) {
+    PlayerActionCreator.highlightPlayer(this.props.player);
+  },
 
   render: function() {
     var columns = this.props.player.picks.map(this.getColumn)
     var rowClass = this.props.player.highlight ? 'warning' : '';
     return (
-      <tr className={rowClass}>
+      <tr className={rowClass} onClick={this._rowClick}>
         <td>
           {this.props.player.name}
         </td>

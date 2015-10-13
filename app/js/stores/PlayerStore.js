@@ -19,6 +19,10 @@ function _addPlayers(players) {
   _tallyPoints(true);
 }
 
+function _highlightPlayer(player) {
+  player.highlight = !player.highlight;
+}
+
 function _tallyPoints(sort) {
   var games = GameStore.getAll();
   _players.forEach(function(player) {
@@ -67,6 +71,12 @@ var PlayerStore = assign({}, EventEmitter.prototype, {
 
   getAll: function() {
     return _players;
+  },
+
+  getId: function(id) {
+    return _players.filter(function( player ) {
+        return player.id === id;
+    })[ 0 ];
   }
 });
 
@@ -82,6 +92,11 @@ PlayerStore.dispatchToken = PicksAppDispatcher.register(function(action) {
     case ActionTypes.USER_SELECT_GAME_WINNER:
       PicksAppDispatcher.waitFor([GameStore.dispatchToken]);
       _tallyPoints(true);
+      PlayerStore.emitChange();
+      break;
+
+    case ActionTypes.HIGHLIGHT_PLAYER:
+      _highlightPlayer(action.player);
       PlayerStore.emitChange();
       break;
 
