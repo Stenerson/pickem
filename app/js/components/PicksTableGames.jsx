@@ -1,5 +1,6 @@
 var React = require('react');
 var GameStore = require('../stores/GameStore');
+var GameActionCreator = require('../actions/GameActionCreator');
 
 
 function getStateFromStores() {
@@ -8,22 +9,10 @@ function getStateFromStores() {
   };
 }
 
-function getFavoritesColumns(game) {
-  return getColumn(game.favorite)
-}
-
 function getSpreadColumns(game) {
-  return getColumn(game.spread)
-}
-
-function getUnderdogColumns(game) {
-  return getColumn(game.underdog)
-}
-
-function getColumn(item) {
   return (
     <td>
-      {item}
+      {game.spread}
     </td>
   );
 }
@@ -34,10 +23,43 @@ var PicksTableGames = React.createClass({
     return getStateFromStores();
   },
 
+  _onClick: function(game,team,e) {
+    GameActionCreator.userSelectGameWinner(game, team);
+    this.setState(getStateFromStores());
+  },
+
+  getFavoritesColumns: function(game) {
+    return this.getSelectableColumn(game, game.favorite)
+  },
+
+  getUnderdogColumns: function(game) {
+    return this.getSelectableColumn(game, game.underdog)
+  },
+
+  selectableClassName: function(game,team) {
+    var className = '';
+    if (game.winner === team) {
+      if (game.userSelected === true) {
+        className = 'warning';
+      } else {
+        className = 'success';
+      }
+    }
+    return className;
+  },
+
+  getSelectableColumn: function(game, team) {
+    return (
+      <td className={this.selectableClassName(game,team)} onClick={this._onClick.bind(null,game,team)}>
+        {team}
+      </td>
+    );
+  },
+
   render: function() {
-    var favorites = this.state.games.map(getFavoritesColumns)
+    var favorites = this.state.games.map(this.getFavoritesColumns)
     var spreads = this.state.games.map(getSpreadColumns)
-    var underdogs = this.state.games.map(getUnderdogColumns)
+    var underdogs = this.state.games.map(this.getUnderdogColumns)
     return (
       <tbody>
         <tr>
@@ -45,18 +67,21 @@ var PicksTableGames = React.createClass({
             Favorite:
           </td>
           {favorites}
+          <td></td>
         </tr>
         <tr>
           <td>
             Spread:
           </td>
           {spreads}
+          <td></td>
         </tr>
         <tr>
           <td>
             Underdog:
           </td>
           {underdogs}
+          <td></td>
         </tr>
       </tbody>
     );
