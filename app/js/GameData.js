@@ -125,8 +125,8 @@ module.exports = {
         "favorite": "SD",
         "underdog": "Pit",
         "spread": "3.0",
-        "isOver": false,
-        "winner": null
+        "isOver": true,
+        "winner": "Pit"
     }
 ]
     ));
