@@ -11,7 +11,7 @@ function getStateFromStores() {
 
 function getSpreadColumns(game) {
   return (
-    <td>
+    <td key={game.id+"spread"}>
       {game.spread}
     </td>
   );
@@ -50,7 +50,7 @@ var PicksTableGames = React.createClass({
 
   getSelectableColumn: function(game, team) {
     return (
-      <td className={this.selectableClassName(game,team)} onClick={this._onClick.bind(null,game,team)}>
+      <td key={game.id+team} className={this.selectableClassName(game,team)} onClick={this._onClick.bind(null,game,team)}>
         {team}
       </td>
     );
