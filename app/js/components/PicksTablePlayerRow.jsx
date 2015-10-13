@@ -7,7 +7,7 @@ var PicksTablePlayerRow = React.createClass({
     //var className = pickClassName(pick);
     return (
       <td
-        key={this.props.player.id+pick.game.id}
+        key={this.props.player.id+pick.gameId}
         className={className}
         >
         {pick.pick}<br />
@@ -16,29 +16,30 @@ var PicksTablePlayerRow = React.createClass({
     );
   },
 
-  selectableClassName: function(game,team) {
-    var className = '';
-    if (game.winner === team) {
-      if (game.userSelected === true) {
-        className = 'warning';
-      } else {
-        className = 'success';
-      }
-    }
-    return className;
-  },
+  // selectableClassName: function(game,team) {
+  //   var className = '';
+  //   if (game.winner === team) {
+  //     if (game.userSelected === true) {
+  //       className = 'warning';
+  //     } else {
+  //       className = 'success';
+  //     }
+  //   }
+  //   return className;
+  // },
 
 
   render: function() {
     var columns = this.props.player.picks.map(this.getColumn)
+    var rowClass = this.props.player.highlight ? 'warning' : '';
     return (
-      <tr>
+      <tr className={rowClass}>
         <td>
           {this.props.player.name}
         </td>
         {columns}
         <td>
-          {this.props.player.earned_points}
+          {this.props.player.earnedPoints}
         </td>
       </tr>
     );

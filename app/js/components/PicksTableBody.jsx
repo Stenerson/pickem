@@ -20,12 +20,13 @@ var PicksTableBody = React.createClass({
 
   componentDidMount: function() {
     GameStore.addChangeListener(this._onChange);
+    PlayerStore.addChangeListener(this._onChange);
   },
 
   componentWillUnmount: function() {
     GameStore.removeChangeListener(this._onChange);
+    PlayerStore.removeChangeListener(this._onChange);
   },
-
 
   playerRows: function(player) {
     return(

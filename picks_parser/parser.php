@@ -72,7 +72,7 @@ class User {
   var $id;
   var $name;
   var $picks;
-  var $earned_points;
+  var $earnedPoints;
 
   function __construct() {
     $this->picks = array();
@@ -81,7 +81,7 @@ class User {
 }
 
 class UserPick {
-  var $game;
+  var $gameId;
   var $pick;
   var $isCorrect = null; // values could be null, true or false
   var $points; // This is the points they put on the game, not the points the get
@@ -105,14 +105,14 @@ foreach ($user_data as $user_row) {
 
     // last column
     if ($i === $num_games+1) {
-      $user->earned_points = intval($plaintext);
+      $user->earnedPoints = intval($plaintext);
       continue;
     }
 
     // All other columns
     // Create UserPick for this game
     $pick = new UserPick;
-    $pick->game = $games[$i-1];
+    $pick->gameId = $games[$i-1]->id;
     $pick->pick = trim(substr($plaintext, 0, strpos($plaintext,"(")-1));
     if ($pick->game->isOver) {
       $pick->isCorrect = $pick->pick == $pick->game->winner;
