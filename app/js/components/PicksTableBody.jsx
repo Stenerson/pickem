@@ -1,7 +1,7 @@
 var React = require('react');
 var GameStore = require('../stores/GameStore');
 var GameActionCreator = require('../actions/GameActionCreator');
-
+var PicksTableRow = require('./PicksTableRow.jsx')
 
 function getStateFromStores() {
   return {
@@ -9,80 +9,47 @@ function getStateFromStores() {
   };
 }
 
-function getSpreadColumns(game) {
-  return (
-    <td key={game.id+"spread"}>
-      {game.spread}
-    </td>
-  );
-}
-
-
 var PicksTableBody = React.createClass({
   getInitialState: function() {
     return getStateFromStores();
   },
 
-  _onClick: function(game,team,e) {
-    GameActionCreator.userSelectGameWinner(game, team);
+  componentDidMount: function() {
+    GameStore.addChangeListener(this._onChange);
+  },
+
+  componentWillUnmount: function() {
+    GameStore.removeChangeListener(this._onChange);
+  },
+
+  _onChange: function() {
     this.setState(getStateFromStores());
   },
 
-  getFavoritesColumns: function(game) {
-    return this.getSelectableColumn(game, game.favorite)
-  },
-
-  getUnderdogColumns: function(game) {
-    return this.getSelectableColumn(game, game.underdog)
-  },
-
-  selectableClassName: function(game,team) {
-    var className = '';
-    if (game.winner === team) {
-      if (game.userSelected === true) {
-        className = 'warning';
-      } else {
-        className = 'success';
-      }
-    }
-    return className;
-  },
-
-  getSelectableColumn: function(game, team) {
-    return (
-      <td key={game.id+team} className={this.selectableClassName(game,team)} onClick={this._onClick.bind(null,game,team)}>
-        {team}
-      </td>
-    );
+  _userPickGame: function(game, team, e) {
+    GameActionCreator.userSelectGameWinner(game, team);
   },
 
   render: function() {
-    var favorites = this.state.games.map(this.getFavoritesColumns)
-    var spreads = this.state.games.map(getSpreadColumns)
-    var underdogs = this.state.games.map(this.getUnderdogColumns)
     return (
       <tbody>
-        <tr>
-          <td>
-            Favorite:
-          </td>
-          {favorites}
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            Spread:
-          </td>
-          {spreads}
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            Underdog:
-          </td>
-          {underdogs}
-          <td></td>
-        </tr>
+        <PicksTableRow
+          title='Favories:'
+          clickHandler={this._userPickGame}
+          games={this.state.games}
+          field='favorite'
+          />
+        <PicksTableRow
+          title='Spread:'
+          games={this.state.games}
+          field='spread'
+          />
+        <PicksTableRow
+          title='Underdog:'
+          clickHandler={this._userPickGame}
+          games={this.state.games}
+          field='underdog'
+          />
       </tbody>
     );
   }

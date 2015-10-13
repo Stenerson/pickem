@@ -23,6 +23,14 @@ var GameStore = assign({}, EventEmitter.prototype, {
     this.emit(CHANGE_EVENT);
   },
 
+  addChangeListener: function(callback) {
+    this.on(CHANGE_EVENT, callback);
+  },
+
+  removeChangeListener: function(callback) {
+    this.removeListener(CHANGE_EVENT, callback);
+  },
+
   userSelectGameWinner: function(game, team) {
     var _game = _games[game.id];
     if (game.isOver && !_game.originalWinner) {
