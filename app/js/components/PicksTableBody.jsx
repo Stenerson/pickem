@@ -18,7 +18,7 @@ function getSpreadColumns(game) {
 }
 
 
-var PicksTableGames = React.createClass({
+var PicksTableBody = React.createClass({
   getInitialState: function() {
     return getStateFromStores();
   },
@@ -88,4 +88,4 @@ var PicksTableGames = React.createClass({
   }
 });
 
-module.exports = PicksTableGames;
+module.exports = PicksTableBody;
