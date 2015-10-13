@@ -1,8 +1,11 @@
 <?php
 define('ROOTPATH','/Users/Matt/Dropbox/Projects/picks/picks_parser/');
+define('APPPATH','/Users/Matt/Dropbox/Projects/picks/app/');
 require_once(ROOTPATH.'simple_html_dom.php');
 
 $week = 'week_5';
+$destination_path = APPPATH."js/";
+
 
 $file_path = ROOTPATH."data/$week.html";
 $html_doc = file_get_html($file_path);
@@ -66,6 +69,7 @@ for ($i=1; $i <= $num_games; $i++) {
   Process Player Data
 ******************/
 class User {
+  var $id;
   var $name;
   var $picks;
   var $earned_points;
@@ -84,9 +88,12 @@ class UserPick {
 }
 
 $users = array();
+$user_id = 0;
 foreach ($user_data as $user_row) {
   $i = -1;
+  $user_id++;
   $user = new User;
+  $user->id = $user_id;
   foreach ($user_row->find('td') as $user_pick) {
     $i++;
     $plaintext = $user_pick->plaintext;
@@ -122,8 +129,8 @@ foreach ($user_data as $user_row) {
 
 
 // Write to files
-$game_data_filename = ROOTPATH."data/".$week."_game_data.json";
-$user_data_filename = ROOTPATH."data/".$week."_user_data.json";
+$game_data_filename = $destination_path."gameData.json";
+$user_data_filename = $destination_path."playerData.json";
 echo "Writing game data to [$game_data_filename]...\n";
 if (!file_put_contents($game_data_filename,json_encode($games,JSON_PRETTY_PRINT))) {
   echo "Error writing game file!\n";

@@ -14,7 +14,16 @@ module.exports = {
     var games = JSON.parse(localStorage.getItem('games'));
 
     // simulate success callback
-    PicksServerActionCreators.receiveAll(games);
+    PicksServerActionCreators.receiveGames(games);
+    // Trigger the action
+  },
+
+  getPlayers: function() {
+    // simulate retrieving data from a database
+    var players = JSON.parse(localStorage.getItem('players'));
+
+    // simulate success callback
+    PicksServerActionCreators.receivePlayers(players);
     // Trigger the action
   }
 

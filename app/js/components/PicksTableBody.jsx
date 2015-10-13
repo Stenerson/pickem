@@ -1,13 +1,17 @@
 var React = require('react');
 var GameStore = require('../stores/GameStore');
+var PlayerStore = require('../stores/PlayerStore');
 var GameActionCreator = require('../actions/GameActionCreator');
 var PicksTableRow = require('./PicksTableRow.jsx')
+var PicksTablePlayerRow = require('./PicksTablePlayerRow.jsx')
 
 function getStateFromStores() {
   return {
-    games: GameStore.getAll()
+    games: GameStore.getAll(),
+    players: PlayerStore.getAll()
   };
 }
+
 
 var PicksTableBody = React.createClass({
   getInitialState: function() {
@@ -22,6 +26,13 @@ var PicksTableBody = React.createClass({
     GameStore.removeChangeListener(this._onChange);
   },
 
+
+  playerRows: function(player) {
+    return(
+      <PicksTablePlayerRow key={player.id} player={player} />
+    );
+  },
+
   _onChange: function() {
     this.setState(getStateFromStores());
   },
@@ -31,6 +42,7 @@ var PicksTableBody = React.createClass({
   },
 
   render: function() {
+    var players = this.state.players.map(this.playerRows)
     return (
       <tbody>
         <PicksTableRow
@@ -50,6 +62,8 @@ var PicksTableBody = React.createClass({
           games={this.state.games}
           field='underdog'
           />
+        <tr><td colSpan={this.state.games.length+2} /></tr>
+        {players}
       </tbody>
     );
   }

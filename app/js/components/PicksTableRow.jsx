@@ -42,6 +42,7 @@ var PicksTableRow = React.createClass({
           {this.props.title}
         </td>
         {columns}
+        <td></td>
       </tr>
     );
   }
