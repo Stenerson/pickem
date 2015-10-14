@@ -114,8 +114,8 @@ foreach ($user_data as $user_row) {
     $pick = new UserPick;
     $pick->gameId = $games[$i-1]->id;
     $pick->pick = trim(substr($plaintext, 0, strpos($plaintext,"(")-1));
-    if ($pick->game->isOver) {
-      $pick->isCorrect = $pick->pick == $pick->game->winner;
+    if ($games[$i-1]->isOver) {
+      $pick->isCorrect = $pick->pick == $games[$i-1]->winner;
     }
     $pick->points = intval(substr($plaintext, strpos($plaintext,"(")+1, strpos($plaintext,")")-1));
 

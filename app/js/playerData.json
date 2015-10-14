@@ -6,85 +6,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 14,
                 "pick": "Pit",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             }
         ],
@@ -97,85 +97,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             }
         ],
@@ -188,85 +188,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 6,
                 "pick": "Chi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 9,
                 "pick": "Cle",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 13
             }
         ],
@@ -279,85 +279,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             }
         ],
@@ -370,85 +370,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             }
         ],
@@ -461,85 +461,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 12
             }
         ],
@@ -552,85 +552,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 14,
                 "pick": "Pit",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             }
         ],
@@ -643,85 +643,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 10
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             }
         ],
@@ -734,85 +734,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             }
         ],
@@ -825,85 +825,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 10
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 14,
                 "pick": "Pit",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             }
         ],
@@ -916,85 +916,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             }
         ],
@@ -1007,85 +1007,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 14,
                 "pick": "Pit",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             }
         ],
@@ -1098,85 +1098,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 14,
                 "pick": "Pit",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             }
         ],
@@ -1189,85 +1189,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 12
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 10
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             }
         ],
@@ -1280,85 +1280,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 13
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             }
         ],
@@ -1371,85 +1371,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Oak",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 14,
                 "pick": "Pit",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             }
         ],
@@ -1462,85 +1462,85 @@
             {
                 "gameId": 1,
                 "pick": "&nbsp",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 0
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             }
         ],
@@ -1553,85 +1553,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 13
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             }
         ],
@@ -1644,85 +1644,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             }
         ],
@@ -1735,85 +1735,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 12
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 14,
                 "pick": "Pit",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             }
         ],
@@ -1826,85 +1826,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 14
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             }
         ],
@@ -1917,85 +1917,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 12
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             }
         ],
@@ -2008,85 +2008,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 10
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 12
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             }
         ],
@@ -2099,85 +2099,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 12
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             }
         ],
@@ -2190,85 +2190,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 10
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             }
         ],
@@ -2281,85 +2281,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 10
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 13,
                 "pick": "SF",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             }
         ],
@@ -2372,85 +2372,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 12
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 13
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             }
         ],
@@ -2463,85 +2463,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 13
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 13,
                 "pick": "SF",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             }
         ],
@@ -2554,85 +2554,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 10
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 14
             }
         ],
@@ -2645,85 +2645,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 5
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             }
         ],
@@ -2736,85 +2736,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             }
         ],
@@ -2827,85 +2827,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 4
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 13
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 14
             }
         ],
@@ -2918,85 +2918,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 14
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             }
         ],
@@ -3009,85 +3009,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 5,
                 "pick": "Buf",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 13
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 8
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 7
             }
         ],
@@ -3100,85 +3100,85 @@
             {
                 "gameId": 1,
                 "pick": "Ind",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 2
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 14
             },
             {
                 "gameId": 3,
                 "pick": "Sea",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 11
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 1
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             },
             {
                 "gameId": 7,
                 "pick": "NO",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 6
             },
             {
                 "gameId": 8,
                 "pick": "Jax",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 3
             },
             {
                 "gameId": 10,
                 "pick": "Ari",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 10
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 9
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 12
             }
         ],
@@ -3191,85 +3191,85 @@
             {
                 "gameId": 1,
                 "pick": "Hou",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 14
             },
             {
                 "gameId": 2,
                 "pick": "Atl",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 13
             },
             {
                 "gameId": 3,
                 "pick": "Cin",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 12
             },
             {
                 "gameId": 4,
                 "pick": "GB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 11
             },
             {
                 "gameId": 5,
                 "pick": "Ten",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 10
             },
             {
                 "gameId": 6,
                 "pick": "KC",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 9
             },
             {
                 "gameId": 7,
                 "pick": "Phi",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 3
             },
             {
                 "gameId": 8,
                 "pick": "TB",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 1
             },
             {
                 "gameId": 9,
                 "pick": "Bal",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 2
             },
             {
                 "gameId": 10,
                 "pick": "Det",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 8
             },
             {
                 "gameId": 11,
                 "pick": "NE",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 7
             },
             {
                 "gameId": 12,
                 "pick": "Den",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 6
             },
             {
                 "gameId": 13,
                 "pick": "NYG",
-                "isCorrect": null,
+                "isCorrect": true,
                 "points": 4
             },
             {
                 "gameId": 14,
                 "pick": "SD",
-                "isCorrect": null,
+                "isCorrect": false,
                 "points": 5
             }
         ],
