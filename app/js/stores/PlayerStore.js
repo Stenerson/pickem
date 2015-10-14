@@ -16,31 +16,34 @@ function _addPlayers(players) {
       _players[player.id] = player
     }
   });
-  _tallyPoints(true);
+  _updatePlayerPoints();
 }
 
 function _highlightPlayer(player) {
   player.highlight = !player.highlight;
 }
 
-function _tallyPoints(sort) {
+
+function _updatePlayerPoints() {
   var games = GameStore.getAll();
   _players.forEach(function(player) {
-    var sum;
-    sum = player.picks.reduce(function(previousValue, pick, index, picksArray) {
+    var sum = 0;
+    player.picks.forEach(function(pick) {
       var game = games[pick.gameId];
-      if (pick.pick === game.winner) {
-        return previousValue + pick.points;
+      if (game.isOver === true) {
+        if (pick.pick === game.winner) {
+          pick.isCorrect = true;
+          sum += pick.points;
+        } else {
+          pick.isCorrect = false;
+        }
       } else {
-        return previousValue;
+        pick.isCorrect = null;
       }
-    },0); // initial value
+    });
     player.earnedPoints = sum;
   });
-
-  if (sort===true) {
-    _sortPlayers();
-  };
+  _sortPlayers();
 }
 
 function _sortPlayers() {
@@ -91,7 +94,7 @@ PlayerStore.dispatchToken = PicksAppDispatcher.register(function(action) {
 
     case ActionTypes.USER_SELECT_GAME_WINNER:
       PicksAppDispatcher.waitFor([GameStore.dispatchToken]);
-      _tallyPoints(true);
+      _updatePlayerPoints();
       PlayerStore.emitChange();
       break;
 

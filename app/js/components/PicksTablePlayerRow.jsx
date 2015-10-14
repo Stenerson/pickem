@@ -5,12 +5,10 @@ var PlayerActionCreator = require('../actions/PlayerActionCreator');
 var PicksTablePlayerRow = React.createClass({
 
   getColumn: function(pick) {
-    var className = '';
-    //var className = pickClassName(pick);
     return (
       <td
         key={this.props.player.id+pick.gameId}
-        className={className}
+        className={this.cellClass(pick)}
         >
         {pick.pick}<br />
         ({pick.points})
@@ -18,17 +16,15 @@ var PicksTablePlayerRow = React.createClass({
     );
   },
 
-  // selectableClassName: function(game,team) {
-  //   var className = '';
-  //   if (game.winner === team) {
-  //     if (game.userSelected === true) {
-  //       className = 'warning';
-  //     } else {
-  //       className = 'success';
-  //     }
-  //   }
-  //   return className;
-  // },
+  cellClass: function(pick) {
+    if (pick.isCorrect === true) {
+      return 'success';
+    }
+    if (pick.isCorrect === false) {
+      return 'danger';
+    }
+    return '';
+  },
 
   _rowClick: function(e) {
     PlayerActionCreator.highlightPlayer(this.props.player);
