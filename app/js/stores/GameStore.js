@@ -35,8 +35,17 @@ var GameStore = assign({}, EventEmitter.prototype, {
     if (game.isOver && !game.originalWinner) {
       game.originalWinner = game.winner;
     };
-    game.winner = team;
-    game.userSelected = !(game.winner === game.originalWinner);
+    if (team === null) { // Reset
+      game.userSelected = false;
+      if (game.isOver) {
+        game.winner = game.originalWinner;
+      } else {
+        game.winner = null;
+      }
+    } else {
+      game.winner = team;
+      game.userSelected = !(game.winner === game.originalWinner);
+    }
   },
 
   getAll: function() {

@@ -30,7 +30,7 @@ function _updatePlayerPoints() {
     var sum = 0;
     player.picks.forEach(function(pick) {
       var game = games[pick.gameId];
-      if (game.isOver === true) {
+      if (game.isOver === true || game.userSelected === true) {
         if (pick.pick === game.winner) {
           pick.isCorrect = true;
           sum += pick.points;
@@ -54,7 +54,8 @@ function _sortPlayers() {
     if (a.earnedPoints < b.earnedPoints) {
       return 1;
     }
-    return 0;
+    // If they are equal, order by their original order (their ID)
+    return a.id > b.id ? 1 : -1;
   });
 }
 

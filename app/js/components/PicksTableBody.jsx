@@ -42,6 +42,10 @@ var PicksTableBody = React.createClass({
     GameActionCreator.userSelectGameWinner(game, team);
   },
 
+  _resetUserPickGame: function(game) {
+    GameActionCreator.userSelectGameWinner(game, null);
+  },
+
   render: function() {
     var players = this.state.players.map(this.playerRows)
     return (
@@ -54,6 +58,7 @@ var PicksTableBody = React.createClass({
           />
         <PicksTableRow
           title='Spread:'
+          clickHandler={this._resetUserPickGame}
           games={this.state.games}
           field='spread'
           />
