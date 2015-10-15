@@ -22,7 +22,7 @@
   ],
   "content_scripts": [
     {
-      "matches": ["https://football.fantasysports.yahoo.com/pickem/21193/*"],
+      "matches": ["*://*.yahoo.com/pickem*grouppicks*"],
       "css": ["app/css/picksApp.css"],
       "js": ["app/js/vendor/jquery.min.js","app/js/bundle.js"],
       "run_at": "document_end"
