@@ -24,7 +24,8 @@
     {
       "matches": ["https://football.fantasysports.yahoo.com/pickem/21193/*"],
       "css": ["app/css/picksApp.css"],
-      "js": ["app/js/vendor/jquery.min.js","app/js/bundle.js"]
+      "js": ["app/js/vendor/jquery.min.js","app/js/bundle.js"],
+      "run_at": "document_end"
     }
   ]
 }

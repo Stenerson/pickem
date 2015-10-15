@@ -10,8 +10,7 @@ PicksAppData.init();
 PicksAppAPIUtils.getGames();
 PicksAppAPIUtils.getPlayers();
 
-// Subscribe to chrome extension message
-chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
+function picksAppEntryPoint() {
   if ($('#react').length === 0) { // it's the first time, we need to create the react element
     var $picks_div = $('#ysf-group-picks'),
     react_div = document.createElement('div');
@@ -28,9 +27,14 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
   } else {
     // Swap the IDs on the elements
     $('.original-picks-container').toggleClass('picks-hide');
-    $('.picks-container').toggleClass('picks-hide');
+    $('#react').toggleClass('picks-hide');
   }
+}
+
+// Subscribe to chrome extension click page action icon message
+chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
+  picksAppEntryPoint();
 });
 
-
-
+// Get it started!
+picksAppEntryPoint();
