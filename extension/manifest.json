@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+
+  // "default_locale": "en",
+  "name": "Pickem Scenarios",
+  "description": "This extension helps you run scenarios in Yahoo!'s NFL pickem leauge.",
+  "version": "1.0",
+
+  "page_action": {
+    "default_icon": {                    // optional
+      "19": "dontuseicon_38.png",           // optional
+      "38": "dontuseicon_38.png"            // optional
+    },
+    "default_title": "Pickem Scenarios"      // optional; shown in tooltip
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions" : [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://football.fantasysports.yahoo.com/pickem/21193/*"],
+      // "css": ["mystyles.css"],
+      "js": ["picksExtension.js"]
+    }
+  ]
+}
