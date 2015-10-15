@@ -4,6 +4,8 @@ var PlayerStore = require('../stores/PlayerStore');
 var GameActionCreator = require('../actions/GameActionCreator');
 var PicksTableRow = require('./PicksTableRow.jsx')
 var PicksTablePlayerRow = require('./PicksTablePlayerRow.jsx')
+var PicksConstants = require('../constants/PicksConstants');
+
 
 function getStateFromStores() {
   return {
@@ -68,7 +70,14 @@ var PicksTableBody = React.createClass({
           games={this.state.games}
           field='underdog'
           />
-        <tr><td colSpan={this.state.games.length+2} /></tr>
+        <tr className={PicksConstants.yahooClasses.playersHeaderRow}>
+          <th colSpan={this.state.games.length} className={PicksConstants.yahooClasses.tdFirst}>
+            Players
+          </th>
+          <th>
+            Points
+          </th>
+        </tr>
         {players}
       </tbody>
     );
