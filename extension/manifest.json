@@ -23,8 +23,8 @@
   "content_scripts": [
     {
       "matches": ["https://football.fantasysports.yahoo.com/pickem/21193/*"],
-      // "css": ["mystyles.css"],
-      "js": ["picksExtension.js"]
+      "css": ["app/css/picksApp.css"],
+      "js": ["app/js/vendor/jquery.min.js","app/js/bundle.js"]
     }
   ]
 }

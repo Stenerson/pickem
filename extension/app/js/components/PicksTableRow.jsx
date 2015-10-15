@@ -1,4 +1,5 @@
 var React = require('react');
+var PicksConstants = require('../constants/PicksConstants');
 
 var PicksTableRow = React.createClass({
 
@@ -20,9 +21,9 @@ var PicksTableRow = React.createClass({
     var className = '';
     if (game.winner === team) {
       if (game.userSelected === true) {
-        className = 'warning';
+        className = PicksConstants.picksClasses.userSelected;
       } else {
-        className = 'success';
+        className = PicksConstants.yahooClasses.gameWinner;
       }
     }
     return className;
@@ -37,8 +38,8 @@ var PicksTableRow = React.createClass({
   render: function() {
     var columns = this.props.games.map(this.getColumn)
     return (
-      <tr>
-        <td>
+      <tr className={PicksConstants.yahooClasses.tr}>
+        <td className={PicksConstants.yahooClasses.tdFirst}>
           {this.props.title}
         </td>
         {columns}

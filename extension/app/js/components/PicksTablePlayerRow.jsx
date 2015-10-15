@@ -1,5 +1,6 @@
 var React = require('react');
 var PlayerActionCreator = require('../actions/PlayerActionCreator');
+var PicksConstants = require('../constants/PicksConstants');
 
 
 var PicksTablePlayerRow = React.createClass({
@@ -18,10 +19,10 @@ var PicksTablePlayerRow = React.createClass({
 
   cellClass: function(pick) {
     if (pick.isCorrect === true) {
-      return 'success';
+      return PicksConstants.yahooClasses.correct;
     }
     if (pick.isCorrect === false) {
-      return 'danger';
+      return PicksConstants.yahooClasses.incorrect;
     }
     return '';
   },
@@ -32,10 +33,10 @@ var PicksTablePlayerRow = React.createClass({
 
   render: function() {
     var columns = this.props.player.picks.map(this.getColumn)
-    var rowClass = this.props.player.highlight ? 'warning' : '';
+    var rowClass = this.props.player.highlight ? PicksConstants.yahooClasses.playerClass : '';
     return (
-      <tr className={rowClass} onClick={this._rowClick}>
-        <td>
+      <tr className={PicksConstants.yahooClasses.tr+" "+rowClass} onClick={this._rowClick}>
+        <td className={PicksConstants.yahooClasses.tdFirst}>
           {this.props.player.name}
         </td>
         {columns}
