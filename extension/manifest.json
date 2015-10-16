@@ -14,7 +14,7 @@
     "default_title": "Pickem Scenarios"
   },
   "background": {
-    "scripts": ["background.js"],
+    "scripts": ["js/background.js"],
     "persistent": false
   },
   "permissions" : [
@@ -24,8 +24,8 @@
   "content_scripts": [
     {
       "matches": ["*://*.yahoo.com/pickem*grouppicks*"],
-      "css": ["app/css/picksApp.css"],
-      "js": ["app/js/vendor/jquery.min.js","app/js/bundle.js"],
+      "css": ["picksApp.css"],
+      "js": ["js/vendor/jquery.min.js","js/bundle.js"],
       "run_at": "document_end"
     }
   ]
