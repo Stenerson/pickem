@@ -7,18 +7,19 @@
   "version": "1.0",
 
   "page_action": {
-    "default_icon": {                    // optional
-      "19": "dontuseicon_38.png",           // optional
-      "38": "dontuseicon_38.png"            // optional
+    "default_icon": {
+      "19": "dontuseicon_38.png",
+      "38": "dontuseicon_38.png"
     },
-    "default_title": "Pickem Scenarios"      // optional; shown in tooltip
+    "default_title": "Pickem Scenarios"
   },
   "background": {
     "scripts": ["background.js"],
     "persistent": false
   },
   "permissions" : [
-    "activeTab"
+    "tabs",
+    "*://*.yahoo.com/pickem*grouppicks*"
   ],
   "content_scripts": [
     {

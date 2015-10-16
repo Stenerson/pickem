@@ -11,11 +11,7 @@ var _players = [];
 
 
 function _addPlayers(players) {
-  players.forEach(function(player) {
-    if (!_players[player.id]) {
-      _players[player.id] = player
-    }
-  });
+  _players = players;
   _updatePlayerPoints();
 }
 
@@ -71,6 +67,16 @@ var PlayerStore = assign({}, EventEmitter.prototype, {
 
   removeChangeListener: function(callback) {
     this.removeListener(CHANGE_EVENT, callback);
+  },
+
+  newPlayer: function(attrs) {
+    return $.extend({
+      id: null,
+      name: null,
+      picks: [],
+      earnedPoints: 92,
+      highlight: false
+    }, attrs);
   },
 
   getAll: function() {

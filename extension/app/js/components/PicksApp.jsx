@@ -8,6 +8,7 @@ var PicksApp = React.createClass({
   render: function() {
     return (
       <div className={PicksConstants.picksClasses.appWrapper}>
+        <h2>Pickem Scenarios - Put some buttons here</h2>
         <PicksTable />
       </div>
     );

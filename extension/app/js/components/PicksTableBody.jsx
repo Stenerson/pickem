@@ -71,7 +71,7 @@ var PicksTableBody = React.createClass({
           field='underdog'
           />
         <tr className={PicksConstants.yahooClasses.playersHeaderRow}>
-          <th colSpan={this.state.games.length} className={PicksConstants.yahooClasses.tdFirst}>
+          <th colSpan={this.state.games.length+1} className={PicksConstants.yahooClasses.tdFirst}>
             Players
           </th>
           <th>

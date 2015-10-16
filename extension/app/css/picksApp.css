@@ -3,5 +3,9 @@
 }
 
 .user-highlight {
-  background-color: #FFFF00;
+  background-color: #5bc0de;
+}
+
+.picksApp h2 {
+  font-size: 1.5em;
 }

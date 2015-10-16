@@ -5,8 +5,7 @@ var React = require('react');
 window.React = React; // export for http://fb.me/react-devtools
 var ReactDOM = require('react-dom');
 
-// Load game data
-PicksAppData.init();
+// Get data from page
 PicksAppAPIUtils.getGames();
 PicksAppAPIUtils.getPlayers();
 
@@ -14,6 +13,10 @@ function picksAppEntryPoint() {
   if ($('#react').length === 0) { // it's the first time, we need to create the react element
     var $picks_div = $('#ysf-group-picks'),
     react_div = document.createElement('div');
+
+    if ($picks_div.length <= 0) {
+      console.log("Could not find picks table!")
+    };
 
     react_div.setAttribute("id", "react");
     $picks_div.addClass('original-picks-container picks-hide');

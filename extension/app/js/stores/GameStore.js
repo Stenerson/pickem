@@ -10,11 +10,7 @@ var _games = [];
 
 
 function _addGames(games) {
-  games.forEach(function(game) {
-    if (!_games[game.id]) {
-      _games[game.id] = game
-    }
-  });
+  _games = games;
 }
 
 var GameStore = assign({}, EventEmitter.prototype, {
@@ -29,6 +25,19 @@ var GameStore = assign({}, EventEmitter.prototype, {
 
   removeChangeListener: function(callback) {
     this.removeListener(CHANGE_EVENT, callback);
+  },
+
+  newGame: function(attrs) {
+    return $.extend({
+      id: null,
+      favorite: null,
+      underdog: null,
+      spread: null,
+      isOver: false,
+      winner: null,
+      originalWinner: null,
+      userSelected: false,
+    }, attrs);
   },
 
   userSelectGameWinner: function(game, team) {
