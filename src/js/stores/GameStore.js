@@ -13,6 +13,21 @@ function _addGames(games) {
   _games = games;
 }
 
+function _resetGames() {
+  _games.forEach(function(game) {
+    _resetGame(game);
+  });
+}
+
+function _resetGame(game) {
+  game.userSelected = false;
+  if (game.isOver) {
+    game.winner = game.originalWinner;
+  } else {
+    game.winner = null;
+  }
+}
+
 var GameStore = assign({}, EventEmitter.prototype, {
 
   emitChange: function() {
@@ -45,12 +60,7 @@ var GameStore = assign({}, EventEmitter.prototype, {
       game.originalWinner = game.winner;
     };
     if (team === null) { // Reset
-      game.userSelected = false;
-      if (game.isOver) {
-        game.winner = game.originalWinner;
-      } else {
-        game.winner = null;
-      }
+      _resetGame(game);
     } else {
       game.winner = team;
       game.userSelected = !(game.winner === game.originalWinner);
@@ -73,6 +83,11 @@ GameStore.dispatchToken = PicksAppDispatcher.register(function(action) {
 
     case ActionTypes.USER_SELECT_GAME_WINNER:
       GameStore.userSelectGameWinner(action.data.game, action.data.team);
+      GameStore.emitChange();
+      break;
+
+    case ActionTypes.RESET_GAMES:
+      _resetGames();
       GameStore.emitChange();
       break;
 

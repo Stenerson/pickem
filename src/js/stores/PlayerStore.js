@@ -113,6 +113,7 @@ PlayerStore.dispatchToken = PicksAppDispatcher.register(function(action) {
       break;
 
     case ActionTypes.USER_SELECT_GAME_WINNER:
+    case ActionTypes.RESET_GAMES:
       PicksAppDispatcher.waitFor([GameStore.dispatchToken]);
       _updatePlayerPoints();
       PlayerStore.emitChange();

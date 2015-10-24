@@ -10,6 +10,13 @@ module.exports = {
       type: ActionTypes.USER_SELECT_GAME_WINNER,
       data: {game: game, team: team}
     });
+  },
+
+  resetGames: function() {
+    PicksAppDispatcher.dispatch({
+      type: ActionTypes.RESET_GAMES,
+      data: {}
+    });
   }
 
 };

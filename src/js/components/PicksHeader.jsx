@@ -1,5 +1,6 @@
 var React = require('react');
 var PicksAppUtils = require('../utils/PicksAppUtils');
+var PicksHeaderBtns = require('./PicksHeaderBtns.jsx');
 var PlayerStore = require('../stores/PlayerStore');
 
 function getStateFromStores() {
@@ -34,6 +35,7 @@ var PicksHeader = React.createClass({
           {activePlayer.name}
         </span>
         {activePlayer.earnedPoints}pts, {PicksAppUtils.ordinalize(PlayerStore.getPlace(activePlayer))} place
+        <PicksHeaderBtns />
       </div>
     );
   }

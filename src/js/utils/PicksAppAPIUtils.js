@@ -7,6 +7,7 @@ var PlayerStore = require('../stores/PlayerStore');
 function _setWinner($column, team, game) {
   if ($column.hasClass(PicksConstants.yahooClasses.gameWinner)) {
     game.winner = team;
+    game.originalWinner = team;
     game.isOver = true;
   }
 }

@@ -6,6 +6,7 @@ module.exports = {
     RECEIVE_GAMES: null,
     RECEIVE_PLAYERS: null,
     USER_SELECT_GAME_WINNER: null,
+    RESET_GAMES: null,
     HIGHLIGHT_PLAYER: null
   }),
 
