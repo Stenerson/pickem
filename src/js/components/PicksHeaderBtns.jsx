@@ -35,7 +35,9 @@ var PicksHeaderBtns = React.createClass({
     var divStyle = {float: "right"};
     return (
       <div style={divStyle}>
-        <button onClick={this._resetGames}>Reset all</button>
+        <button className="btn btn-sm btn-default" onClick={this._resetGames}>
+          <i className="fa fa-undo" /> Reset
+        </button>
       </div>
     );
   }
