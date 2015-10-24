@@ -2,7 +2,7 @@
   "name": "pickem-scenarios",
   "version": "0.0.1",
   "description": "React app to run possible NFL Pickem scenarios",
-  "repository": "",
+  "repository": "https://github.com/Stenerson/pickem",
   "main": "src/js/app.js",
   "dependencies": {
     "classnames": "^2.1.3",
