@@ -9,3 +9,15 @@
 .picksApp h2 {
   font-size: 1.5em;
 }
+
+.picksApp .picks-header {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.lead {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.4;
+}

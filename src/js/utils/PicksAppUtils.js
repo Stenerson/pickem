@@ -11,6 +11,13 @@ module.exports = {
       p.pop();
     }
     dive(0);
+  },
+
+  // Found here https://gist.github.com/jlbruno/1535691
+  ordinalize: function(n) {
+     var s=["th","st","nd","rd"],
+         v=n%100;
+     return n+(s[(v-20)%10]||s[v]||s[0]);
   }
 
 }

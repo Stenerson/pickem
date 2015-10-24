@@ -16,7 +16,10 @@ function _addPlayers(players) {
 }
 
 function _highlightPlayer(player) {
-  player.highlight = !player.highlight;
+  _players.forEach(function(_player) {
+    _player.highlight = false;
+  });
+  player.highlight = true;
 }
 
 
@@ -79,8 +82,18 @@ var PlayerStore = assign({}, EventEmitter.prototype, {
     }, attrs);
   },
 
+  getActivePlayer: function() {
+    return _players.filter(function( player ) {
+        return player.highlight === true;
+    })[ 0 ];
+  },
+
   getAll: function() {
     return _players;
+  },
+
+  getPlace: function(player) {
+    return _players.indexOf(player) + 1;
   },
 
   getId: function(id) {
