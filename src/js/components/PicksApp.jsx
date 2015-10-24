@@ -1,4 +1,3 @@
-// var MessageSection = require('./MessageSection.react');
 var React = require('react');
 var PicksTable = require('./PicksTable.jsx');
 var PicksHeader = require('./PicksHeader.jsx');
