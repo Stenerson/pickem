@@ -7,20 +7,17 @@ var PicksTablePlayerRow = React.createClass({
 
   getColumn: function(pick) {
     var pickText;
-    // if (pick.pick) {
-      pickText = pick.pick;
-      // pickText = {pick.pick} <br /> ({pick.points});
-    // } else {
-      // pickText = "--";
-    // }
+    if (pick.pick) {
+      pickText = <span>{pick.pick} <br /> ({pick.points})</span>;
+    } else {
+      pickText = "--";
+    }
     return (
       <td
         key={this.props.player.id+pick.gameId}
         className={this.cellClass(pick)}
         >
-        {pick.pick}
-        <br />
-        {pick.pick ? "("+pick.points+")" : "--"}
+        {pickText}
       </td>
     );
   },
