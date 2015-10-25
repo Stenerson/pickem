@@ -3,6 +3,8 @@ var keyMirror = require('keymirror');
 module.exports = {
 
   ActionTypes: keyMirror({
+    APP_INIT: null,
+    CLICK_LOCK: null,
     RECEIVE_GAMES: null,
     RECEIVE_PLAYERS: null,
     USER_SELECT_GAME_WINNER: null,
@@ -32,6 +34,11 @@ module.exports = {
     picksContainer: 'picks-container',
     userSelected: 'user-highlight',
     playerHighlight: 'user-highlight'
-  }
+  },
+
+  SortOptions: keyMirror({
+    POINTS: null,
+    POTENTIAL: null
+  })
 
 };

@@ -14,6 +14,10 @@
   margin: 10px;
 }
 
+.pad-right {
+  margin-right: 5px;
+}
+
 .lead {
     margin-bottom: 10px;
     font-size: 1.5em;

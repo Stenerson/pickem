@@ -1,4 +1,5 @@
 var React = require('react');
+var AppStateStore = require('../stores/AppStateStore');
 var GameStore = require('../stores/GameStore');
 var PlayerStore = require('../stores/PlayerStore');
 var GameActionCreator = require('../actions/GameActionCreator');
@@ -10,7 +11,8 @@ var PicksConstants = require('../constants/PicksConstants');
 function getStateFromStores() {
   return {
     games: GameStore.getAll(),
-    players: PlayerStore.getAll()
+    players: PlayerStore.getAll(),
+    appState: AppStateStore.getAppState()
   };
 }
 
@@ -23,11 +25,13 @@ var PicksTableBody = React.createClass({
   componentDidMount: function() {
     GameStore.addChangeListener(this._onChange);
     PlayerStore.addChangeListener(this._onChange);
+    AppStateStore.addChangeListener(this._onChange);
   },
 
   componentWillUnmount: function() {
     GameStore.removeChangeListener(this._onChange);
     PlayerStore.removeChangeListener(this._onChange);
+    AppStateStore.removeChangeListener(this._onChange);
   },
 
   playerRows: function(player) {
@@ -41,7 +45,11 @@ var PicksTableBody = React.createClass({
   },
 
   _userPickGame: function(game, team, e) {
-    GameActionCreator.userSelectGameWinner(game, team);
+    // Only allow the user to change the winner if the game is not over
+    // or the app is in an unlocked state
+    if (!game.isOver || !this.state.appState.isLocked) {
+      GameActionCreator.userSelectGameWinner(game, team);
+    };
   },
 
   _resetUserPickGame: function(game) {
