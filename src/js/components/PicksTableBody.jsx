@@ -12,6 +12,7 @@ function getStateFromStores() {
   return {
     games: GameStore.getAll(),
     players: PlayerStore.getAll(),
+    activePlayer: PlayerStore.getActivePlayer(),
     appState: AppStateStore.getAppState()
   };
 }
@@ -36,7 +37,7 @@ var PicksTableBody = React.createClass({
 
   playerRows: function(player) {
     return(
-      <PicksTablePlayerRow key={player.id} player={player} />
+      <PicksTablePlayerRow key={player.id} player={player} activePlayer={this.state.activePlayer} />
     );
   },
 

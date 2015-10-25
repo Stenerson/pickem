@@ -23,13 +23,18 @@ var PicksTablePlayerRow = React.createClass({
   },
 
   cellClass: function(pick) {
+    var className = "";
     if (pick.isCorrect === true) {
-      return PicksConstants.yahooClasses.correct;
+      className += PicksConstants.yahooClasses.correct;
+    } else if (pick.isCorrect === false) {
+      className += PicksConstants.yahooClasses.incorrect;
     }
-    if (pick.isCorrect === false) {
-      return PicksConstants.yahooClasses.incorrect;
+
+    if (pick.pick !== this.props.activePlayer.picks[pick.gameId].pick) {
+      className += " " + PicksConstants.yahooClasses.differentPick;
     }
-    return '';
+
+    return className;
   },
 
   _rowClick: function(e) {
