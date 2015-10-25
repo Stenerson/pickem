@@ -46,7 +46,7 @@ var PicksTablePlayerRow = React.createClass({
         </td>
         {columns}
         <td>
-          {this.props.player.earnedPoints}
+          <span className="lead">{this.props.player.earnedPoints}</span>
           <br/>
           <small>Lost: {this.props.player.lostPoints}</small>
         </td>
