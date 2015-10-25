@@ -1,5 +1,6 @@
 var PicksAppDispatcher = require('../dispatcher/PicksAppDispatcher');
 var PicksConstants = require('../constants/PicksConstants');
+var AppStateStore = require('../stores/AppStateStore');
 var GameStore = require('../stores/GameStore');
 var EventEmitter = require('events').EventEmitter;
 var assign = require('object-assign');
@@ -26,36 +27,66 @@ function _highlightPlayer(player) {
 function _updatePlayerPoints() {
   var games = GameStore.getAll();
   _players.forEach(function(player) {
-    var sum = 0;
+    var sumEarned = 0,
+    sumLost = 0;
     player.picks.forEach(function(pick) {
       var game = games[pick.gameId];
       if (game.isOver === true || game.userSelected === true) {
         if (pick.pick === game.winner) {
           pick.isCorrect = true;
-          sum += pick.points;
+          sumEarned += pick.points;
         } else {
           pick.isCorrect = false;
+          sumLost += pick.points;
         }
       } else {
         pick.isCorrect = null;
       }
     });
-    player.earnedPoints = sum;
+    player.earnedPoints = sumEarned;
+    player.lostPoints = sumLost;
   });
   _sortPlayers();
 }
 
 function _sortPlayers() {
+  var sortOrder = AppStateStore.getSortOrder();
   _players.sort(function(a,b) {
-    if (a.earnedPoints > b.earnedPoints) {
-      return -1;
+    if (sortOrder === PicksConstants.SortOptions.POTENTIAL) {
+      return _potentialSort(a,b,true);
+    } else {
+      // Default to POINTS for now
+      return _pointsSort(a,b,true);
     }
-    if (a.earnedPoints < b.earnedPoints) {
-      return 1;
-    }
-    // If they are equal, order by their original order (their ID)
-    return a.id > b.id ? 1 : -1;
   });
+}
+
+function _pointsSort(a,b,breakTie) {
+  if (a.earnedPoints > b.earnedPoints) {
+    return -1;
+  }
+  if (a.earnedPoints < b.earnedPoints) {
+    return 1;
+  }
+  if (breakTie && a.lostPoints !== b.lostPoints) {
+    return _potentialSort(a,b,false) // Add third param to avoid endless loop
+  };
+  // If we still don't have an outcome sort by their original order (their ID)
+  return a.id > b.id ? 1 : -1;
+}
+
+function _potentialSort(a,b,breakTie) {
+  if (a.lostPoints > b.lostPoints) {
+    return 1;
+  }
+  if (a.lostPoints < b.lostPoints) {
+    return -1;
+  }
+  if (breakTie && a.earnedPoints !== b.earnedPoints) {
+    return _pointsSort(a,b,false) // Add third param to avoid endless loop
+  };
+  // If we still don't have an outcome sort by their original order (their ID)
+  return a.id > b.id ? 1 : -1;
 }
 
 var PlayerStore = assign({}, EventEmitter.prototype, {
@@ -77,7 +108,8 @@ var PlayerStore = assign({}, EventEmitter.prototype, {
       id: null,
       name: null,
       picks: [],
-      earnedPoints: 92,
+      earnedPoints: 0,
+      lostPoints: 0,
       highlight: false
     }, attrs);
   },
@@ -124,12 +156,11 @@ PlayerStore.dispatchToken = PicksAppDispatcher.register(function(action) {
       PlayerStore.emitChange();
       break;
 
-
-    // TODO: reorder players
-    // case ActionTypes.USER_SELECT_GAME_WINNER:
-    //   PlayerStore.userSelectGameWinner(action.data.game, action.data.team);
-    //   PlayerStore.emitChange();
-    //   break;
+    case ActionTypes.CLICK_SORT:
+      PicksAppDispatcher.waitFor([AppStateStore.dispatchToken]);
+      _sortPlayers();
+      PlayerStore.emitChange();
+      break;
 
     default:
       // do nothing

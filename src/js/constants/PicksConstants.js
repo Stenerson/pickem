@@ -5,6 +5,7 @@ module.exports = {
   ActionTypes: keyMirror({
     APP_INIT: null,
     CLICK_LOCK: null,
+    CLICK_SORT: null,
     RECEIVE_GAMES: null,
     RECEIVE_PLAYERS: null,
     USER_SELECT_GAME_WINNER: null,

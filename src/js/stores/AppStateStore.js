@@ -1,14 +1,12 @@
 var PicksAppDispatcher = require('../dispatcher/PicksAppDispatcher');
 var PicksConstants = require('../constants/PicksConstants');
-var GameStore = require('../stores/GameStore');
-var PlayerStore = require('../stores/PlayerStore');
 var EventEmitter = require('events').EventEmitter;
 var assign = require('object-assign');
 
 var ActionTypes = PicksConstants.ActionTypes;
 var CHANGE_EVENT = 'change';
 
-var _appState = [];
+var _appState = {};
 
 function _setInitialAppState() {
   _appState = {
@@ -19,6 +17,10 @@ function _setInitialAppState() {
 
 function _set_lock(lock) {
   _appState.isLocked = lock;
+}
+
+function _set_sort(sortOption) {
+  _appState.sort = sortOption;
 }
 
 
@@ -38,6 +40,10 @@ var AppStateStore = assign({}, EventEmitter.prototype, {
 
   getAppState: function() {
     return _appState;
+  },
+
+  getSortOrder: function() {
+    return _appState.sort;
   }
 
 });
@@ -53,6 +59,11 @@ AppStateStore.dispatchToken = PicksAppDispatcher.register(function(action) {
 
     case ActionTypes.CLICK_LOCK:
       _set_lock(action.data.lock);
+      AppStateStore.emitChange();
+      break;
+
+    case ActionTypes.CLICK_SORT:
+      _set_sort(action.data.sort);
       AppStateStore.emitChange();
       break;
 

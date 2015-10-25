@@ -17,6 +17,13 @@ module.exports = {
       type: ActionTypes.CLICK_LOCK,
       data: {lock: _lock}
     });
+  },
+
+  sort: function(sortOption) {
+    PicksAppDispatcher.dispatch({
+      type: ActionTypes.CLICK_SORT,
+      data: {sort: sortOption}
+    });
   }
 
 };
