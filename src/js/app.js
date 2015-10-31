@@ -2,7 +2,7 @@ var PicksApp = require('./components/PicksApp.jsx');
 var PicksAppAPIUtils = require('./utils/PicksAppAPIUtils');
 var AppStateActionCreator = require('./actions/AppStateActionCreator');
 var React = require('react');
-window.React = React; // export for http://fb.me/react-devtools
+// React = React; // export for http://fb.me/react-devtools
 var ReactDOM = require('react-dom');
 
 // Set initial application state

@@ -21,8 +21,7 @@
   },
   "scripts": {
     "start": "watchify -o extension/js/bundle.js -v -d src/js/app.js",
-    "build": "browserify . -t [envify --NODE_ENV production] | uglifyjs -cm > extension/js/bundle.min.js",
-    "test": "jest"
+    "build": "browserify src/js/app.js -t [envify --NODE_ENV production] | uglifyjs -c > extension/js/bundle.js"
   },
   "author": "Matt Stenerson",
   "browserify": {
@@ -30,8 +29,5 @@
       "reactify",
       "envify"
     ]
-  },
-  "jest": {
-    "rootDir": "./js"
   }
 }
