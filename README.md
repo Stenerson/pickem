@@ -26,9 +26,11 @@ in the right side of Chrome's omni bar.
 
 ### Selecting Winners
 
-* Click team to select them as the winner
-* Click the spread (between teams) to reset the game's winner (will reset to no winner if the game is not over)
-* Use the unlock setting to change the outcome of games that have finished (what IF Houston would have won?)
+* Click a team at the top of the table to select as the winner
+* Click the spread (between teams) to reset the game's winner  
+(will reset to no winner if the game is not final)
+* Use the unlock setting to change the outcome of games that have finished  
+(what IF Houston would have won?)
 * Click the reset button to reset all games
 
 ### Sorting
