@@ -89,8 +89,8 @@ To build a minified js file run:
 ### Functionality
 * Select buttons
   * My picks **[Done]**
-  * Favorites
-  * Dogs
+  * Favorites **[Done]**
+  * Dogs **[Done]**
   * Iterate through all remaining games to find highest possible finish
 * Determine missing points for players that are missing picks
 * Open a github issue if you'd like to see a feature added

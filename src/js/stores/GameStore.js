@@ -38,6 +38,16 @@ function _selectPicksFor(player) {
   });
 }
 
+function _selectSpreadPicks(pickFavorites) {
+  isLocked = AppStateStore.isLocked(),
+  pick = pickFavorites ? 'favorite' : 'underdog';
+  _games.forEach(function(game) {
+    if (!game.isOver || !isLocked) {
+      _userSelectGameWinner(game, game[pick]);
+    }
+  });
+}
+
 function _userSelectGameWinner(game, team) {
   if (game.isOver && !game.originalWinner) {
     game.originalWinner = game.winner;
@@ -103,6 +113,11 @@ GameStore.dispatchToken = PicksAppDispatcher.register(function(action) {
 
     case ActionTypes.SELECT_ALL_PLAYER_PICKS:
       _selectPicksFor(action.data.player);
+      GameStore.emitChange();
+      break;
+
+    case ActionTypes.SELECT_SPREAD_PICKS:
+      _selectSpreadPicks(action.data.pickFavorites);
       GameStore.emitChange();
       break;
 

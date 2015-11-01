@@ -51,6 +51,10 @@ var PicksHeaderBtns = React.createClass({
     GameActionCreator.selectPicksFor(player);
   },
 
+  _clickSpreadPicks: function(pickFavorites) {
+    GameActionCreator.selectSpreadPicks(pickFavorites);
+  },
+
   _clickSort: function(sortOption) {
     AppStateActionCreator.sort(sortOption);
   },
@@ -65,6 +69,14 @@ var PicksHeaderBtns = React.createClass({
           <button className="btn btn-sm btn-default"
             onClick={this._clickPlayerPicks.bind(null,activePlayer)}>
             {activePlayer.name}'s Picks
+          </button>
+          <button className="btn btn-sm btn-default"
+            onClick={this._clickSpreadPicks.bind(null,true)}>
+            Favorites
+          </button>
+          <button className="btn btn-sm btn-default"
+            onClick={this._clickSpreadPicks.bind(null,false)}>
+            Underdogs
           </button>
         </div>
         <span className="pad-right">Sort:</span>

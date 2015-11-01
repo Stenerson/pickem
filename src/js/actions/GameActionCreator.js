@@ -24,6 +24,13 @@ module.exports = {
       type: ActionTypes.SELECT_ALL_PLAYER_PICKS,
       data: {player: player}
     });
+  },
+
+  selectSpreadPicks: function(pickFavorites) {
+    PicksAppDispatcher.dispatch({
+      type: ActionTypes.SELECT_SPREAD_PICKS,
+      data: {pickFavorites: pickFavorites}
+    });
   }
 
 };

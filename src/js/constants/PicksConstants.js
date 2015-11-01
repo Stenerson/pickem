@@ -11,6 +11,7 @@ module.exports = {
     USER_SELECT_GAME_WINNER: null,
     RESET_GAMES: null,
     SELECT_ALL_PLAYER_PICKS: null,
+    SELECT_SPREAD_PICKS: null,
     HIGHLIGHT_PLAYER: null
   }),
 
