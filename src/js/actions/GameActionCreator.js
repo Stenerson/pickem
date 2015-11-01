@@ -17,6 +17,13 @@ module.exports = {
       type: ActionTypes.RESET_GAMES,
       data: {}
     });
+  },
+
+  selectPicksFor: function(player) {
+    PicksAppDispatcher.dispatch({
+      type: ActionTypes.SELECT_ALL_PLAYER_PICKS,
+      data: {player: player}
+    });
   }
 
 };

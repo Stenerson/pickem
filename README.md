@@ -88,7 +88,7 @@ To build a minified js file run:
 
 ### Functionality
 * Select buttons
-  * My picks
+  * My picks **[Done]**
   * Favorites
   * Dogs
   * Iterate through all remaining games to find highest possible finish

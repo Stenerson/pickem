@@ -38,6 +38,10 @@ var AppStateStore = assign({}, EventEmitter.prototype, {
     this.removeListener(CHANGE_EVENT, callback);
   },
 
+  isLocked: function() {
+    return _appState.isLocked;
+  },
+
   getAppState: function() {
     return _appState;
   },

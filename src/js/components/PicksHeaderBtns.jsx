@@ -2,6 +2,7 @@ var React = require('react');
 var GameActionCreator = require('../actions/GameActionCreator');
 var AppStateActionCreator = require('../actions/AppStateActionCreator');
 var AppStateStore = require('../stores/AppStateStore');
+var PlayerStore = require('../stores/PlayerStore');
 var PicksConstants = require('../constants/PicksConstants');
 
 
@@ -46,14 +47,26 @@ var PicksHeaderBtns = React.createClass({
     AppStateActionCreator.lock(lock);
   },
 
+  _clickPlayerPicks: function(player) {
+    GameActionCreator.selectPicksFor(player);
+  },
+
   _clickSort: function(sortOption) {
     AppStateActionCreator.sort(sortOption);
   },
 
   render: function() {
-    var divStyle = {float: "right"};
+    var divStyle = {float: "right"},
+    activePlayer = PlayerStore.getActivePlayer();
     return (
       <div style={divStyle}>
+      <span className="pad-right">Select:</span>
+        <div className="btn-group pad-right">
+          <button className="btn btn-sm btn-default"
+            onClick={this._clickPlayerPicks.bind(null,activePlayer)}>
+            {activePlayer.name}'s Picks
+          </button>
+        </div>
         <span className="pad-right">Sort:</span>
         <div className="btn-group pad-right">
           <button className={this.groupBtnClass(PicksConstants.SortOptions.POINTS, this.state.appState.sort)}

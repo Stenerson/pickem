@@ -1,5 +1,6 @@
 var PicksAppDispatcher = require('../dispatcher/PicksAppDispatcher');
 var PicksConstants = require('../constants/PicksConstants');
+var AppStateStore = require('../stores/AppStateStore');
 var EventEmitter = require('events').EventEmitter;
 var assign = require('object-assign');
 
@@ -25,6 +26,27 @@ function _resetGame(game) {
     game.winner = game.originalWinner;
   } else {
     game.winner = null;
+  }
+}
+
+function _selectPicksFor(player) {
+  isLocked = AppStateStore.isLocked();
+  _games.forEach(function(game) {
+    if (!game.isOver || !isLocked) {
+      _userSelectGameWinner(game, player.picks[game.id].pick);
+    }
+  });
+}
+
+function _userSelectGameWinner(game, team) {
+  if (game.isOver && !game.originalWinner) {
+    game.originalWinner = game.winner;
+  };
+  if (team === null) { // Reset
+    _resetGame(game);
+  } else {
+    game.winner = team;
+    game.userSelected = !(game.winner === game.originalWinner);
   }
 }
 
@@ -55,18 +77,6 @@ var GameStore = assign({}, EventEmitter.prototype, {
     }, attrs);
   },
 
-  userSelectGameWinner: function(game, team) {
-    if (game.isOver && !game.originalWinner) {
-      game.originalWinner = game.winner;
-    };
-    if (team === null) { // Reset
-      _resetGame(game);
-    } else {
-      game.winner = team;
-      game.userSelected = !(game.winner === game.originalWinner);
-    }
-  },
-
   getAll: function() {
     return _games;
   }
@@ -82,12 +92,17 @@ GameStore.dispatchToken = PicksAppDispatcher.register(function(action) {
       break;
 
     case ActionTypes.USER_SELECT_GAME_WINNER:
-      GameStore.userSelectGameWinner(action.data.game, action.data.team);
+      _userSelectGameWinner(action.data.game, action.data.team);
       GameStore.emitChange();
       break;
 
     case ActionTypes.RESET_GAMES:
       _resetGames();
+      GameStore.emitChange();
+      break;
+
+    case ActionTypes.SELECT_ALL_PLAYER_PICKS:
+      _selectPicksFor(action.data.player);
       GameStore.emitChange();
       break;
 
